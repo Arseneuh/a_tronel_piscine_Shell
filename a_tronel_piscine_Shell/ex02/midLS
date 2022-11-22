@@ -1,0 +1,16 @@
+  189  ls
+  190  ls -pum
+  191  ls -pim
+  192  ls -pum
+  193  ls bureau
+  194  cd bureau
+  195  bureau cd/
+  196  cd bureau
+  197  ls -pum
+  198  mkdir ex02
+  199  pwd
+  200  cd desktop
+  201  mkdir ex02
+  202  touch midLS
+  203  cd ex02
+  204  touch midLS
